@@ -1,0 +1,10 @@
+flask
+pytest
+redis
+pydantic
+uuid
+flask-expects-json
+pandas
+BeautifulSoup4
+requests
+mock
